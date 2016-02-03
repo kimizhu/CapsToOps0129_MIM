@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: CM REST API Service Details
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 530047f1-e43b-4a69-9542-75bc1da57bf7
-ms.author: v-jibran@microsoft.com
 ---
 # CM REST API Service Details
 The following sections discuss details of the Microsoft Identity Manager (MIM) Certificate Management (CM) REST API.

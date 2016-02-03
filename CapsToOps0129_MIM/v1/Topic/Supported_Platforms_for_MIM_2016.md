@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Supported Platforms for MIM 2016
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4978f60d-044d-4e84-8d93-65801fce1144
-ms.author: kgremban@microsoft.com
+author: Kgremban
 ---
 # Supported Platforms for MIM 2016
 | **MIM module** | **Platform/Server/Application** | **Version** |

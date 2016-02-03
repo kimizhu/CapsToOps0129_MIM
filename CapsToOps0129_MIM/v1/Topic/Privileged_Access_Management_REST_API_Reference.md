@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Privileged Access Management REST API Reference
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: 541854b7-f285-4e8b-bbaf-3f15da69467f
-ms.author: v-jibran@microsoft.com
 ---
 # Privileged Access Management REST API Reference
 Microsoft Identity Manager (MIM) 2016 adds a new scenario called Privileged Access Management (PAM). PAM enables an organization to have more control over the access rights of high privileged user accounts, such as system or service administrators, to sensitive resources. PAM controls high privilege account access by providing limited time access rights, just in time (JIT), when the access rights are needed. 

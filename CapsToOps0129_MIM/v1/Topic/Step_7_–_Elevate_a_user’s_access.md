@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Step 7 – Elevate a user’s access
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5325fce2-ae35-45b0-9c1a-ad8b592fcd07
-ms.author: kgremban@microsoft.com
+author: Kgremban
 ---
 # Step 7 – Elevate a user’s access
 This step will demonstrate that a user can request access to a role via MIM.

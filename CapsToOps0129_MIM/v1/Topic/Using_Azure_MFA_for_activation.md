@@ -1,21 +1,19 @@
 ---
-description: na
-keywords: na
 title: Using Azure MFA for activation
-search: na
 ms.custom: 
   - inhenk
   - identity management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
 ms.service: active-directory
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5134a112-f73f-41d0-a5a5-a89f285e1f73
-ms.author: kgremban@microsoft.com
+author: Kgremban
 ---
 # Using Azure MFA for activation
 When configuring a PAM role, you can specify the authorization requirements needed for a candidate user to activate the role. The choices that the PAM authorization activity implements are:

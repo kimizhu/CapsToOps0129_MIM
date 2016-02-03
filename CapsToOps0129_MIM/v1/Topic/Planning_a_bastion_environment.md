@@ -1,17 +1,16 @@
 ---
-description: na
-keywords: na
 title: Planning a bastion environment
-search: na
-ms.date: na
+ms.custom: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
 ms.service: active-directory
+ms.suite: na
 ms.technology: 
   - active-directory-domain-services
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: bfc7cb64-60c7-4e35-b36a-bbe73b99444b
-ms.author: kgremban@microsoft.com
+author: Kgremban
 ---
 # Planning a bastion environment
  

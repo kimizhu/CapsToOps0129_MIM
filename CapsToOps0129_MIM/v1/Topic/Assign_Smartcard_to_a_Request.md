@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Assign Smartcard to a Request
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: 20f0bf6e-9ae0-4d21-8117-ed63e29315e6
-ms.author: v-jibran@microsoft.com
 ---
 # Assign Smartcard to a Request
 Binds the specified smartcard to the specified request. Once bound, the request can only be executed with this card.

@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get Workflow Policy
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: be636205-c1f0-457c-982e-e17478cf0889
-ms.author: v-jibran@microsoft.com
 ---
 # Get Workflow Policy
 Gets the profile template policy for the specified workflow. This data is used during request creation. The workflow policy specifies which data is needed by the client in order to create a request. Such data may include: various data collection items, request comments, and one time password policy.

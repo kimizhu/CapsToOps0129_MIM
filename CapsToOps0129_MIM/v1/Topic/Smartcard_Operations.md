@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Smartcard Operations
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: 090658bb-5512-4be3-b129-f0c2ed88df52
-ms.author: v-jibran@microsoft.com
 ---
 # Smartcard Operations
 ##In This Section

@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Sample Enrollment Walkthrough
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 92b97803-9475-4b90-9a6c-430f107a167d
-ms.author: v-jibran@microsoft.com
 ---
 # Sample Enrollment Walkthrough
 This topic shows the steps required  to perform a Virtual Smartcard Self-Service enrollment. It shows an auto-approved request with a user-set PIN.

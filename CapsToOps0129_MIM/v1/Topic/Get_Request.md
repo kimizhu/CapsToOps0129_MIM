@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get Request
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: dcacf36c-0670-44d7-9f40-388667235271
-ms.author: v-jibran@microsoft.com
 ---
 # Get Request
 Gets one or more specified MIM CM requests.

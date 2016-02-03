@@ -1,19 +1,16 @@
 ---
-description: na
-keywords: na
 title: Step 1 - Prepare the CORP domain controller
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 995a36ef-28b0-4831-8ac7-353314594c2a
-ms.author: inhenk@microsoft.com
 robots: noindex,nofollow
 ---
 # Step 1 - Prepare the CORP domain controller

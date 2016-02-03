@@ -1,19 +1,17 @@
 ---
-description: na
-keywords: na
 title: Deploying the MIM Password Change Notification Service (PCNS) on a Domain Controller
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 97edae12-6f86-4f9f-8620-a95a096e482a
-ms.author: rkarlin@microsoft.com
+author: Kgremban
 ---
 # Deploying the MIM Password Change Notification Service (PCNS) on a Domain Controller
 

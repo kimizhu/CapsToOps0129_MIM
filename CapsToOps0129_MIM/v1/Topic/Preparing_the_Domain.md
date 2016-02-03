@@ -1,19 +1,17 @@
 ---
-description: na
-keywords: na
 title: Preparing the Domain
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 50345fda-56d7-4b6e-a861-f49ff90a8376
-ms.author: rkarlin@microsoft.com
+author: Kgremban
 ---
 # Preparing the Domain
 

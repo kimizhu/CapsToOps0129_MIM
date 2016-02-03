@@ -1,19 +1,17 @@
 ---
-description: na
-keywords: na
 title: Deploying MIM
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fa0af422-b5e9-4599-9d9b-cb6c18ea07f9
-ms.author: rkarlin@microsoft.com
+author: Kgremban
 ---
 # Deploying MIM
 This section provides step-by-step instructions for deploying Microsoft Identity Manager 2016 for two scenarios.

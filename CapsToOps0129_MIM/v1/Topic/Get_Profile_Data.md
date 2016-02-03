@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get Profile Data
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: 3eba062b-7adf-4766-9b94-cba1c7be2fd3
-ms.author: v-jibran@microsoft.com
 ---
 # Get Profile Data
 Gets a list of a user’s software certificate profiles with a list of possible operations that can be performed by the current user. A request can then be initiated for any of the specified operations.

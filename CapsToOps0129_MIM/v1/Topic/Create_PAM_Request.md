@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Create PAM Request
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: fe8b3374-9d32-4cc3-9328-f1eafeadfe8e
-ms.author: v-jibran@microsoft.com
 ---
 # Create PAM Request
 Used by a privileged account to elevate to a PAM role.

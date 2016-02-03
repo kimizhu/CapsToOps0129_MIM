@@ -1,19 +1,17 @@
 ---
-description: na
-keywords: na
 title: Installing Microsoft Identity Manager 2016 Server Components
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 901e3634-38b1-421e-a995-049e763c7672
-ms.author: rkarlin@microsoft.com
+author: Kgremban
 ---
 # Installing Microsoft Identity Manager 2016 Server Components
 

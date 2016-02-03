@@ -1,15 +1,13 @@
 ---
-description: na
-keywords: na
 title: Issues
-search: na
-ms.date: na
+ms.custom: na
 ms.prod: windows-server-2012
+ms.reviewer: na
 ms.service: active-directory
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 8c530bf5-2d96-4ac3-9486-492b628c36b6
-ms.author: inhenk@microsoft.com
 ---
 # Issues
 ## Forefront Identity Manager (FIM) Issues and Solutions

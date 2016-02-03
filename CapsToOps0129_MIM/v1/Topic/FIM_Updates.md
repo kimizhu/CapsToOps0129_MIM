@@ -1,15 +1,14 @@
 ---
-description: na
-keywords: na
 title: FIM Updates
-search: na
-ms.date: na
+ms.custom: na
 ms.prod: windows-server-2012
+ms.reviewer: na
 ms.service: active-directory
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 50d639ef-d3c1-4ccc-b088-dcb5590fdcab
-ms.author: kgremban@microsoft.com
+author: Kgremban
 ---
 # FIM Updates
 ## Forefront Identity Manager (FIM) Updates

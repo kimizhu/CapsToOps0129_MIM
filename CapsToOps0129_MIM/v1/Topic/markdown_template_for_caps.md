@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: markdown template for caps
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 77a564be-0e17-44a2-b7e8-87b3e6aba514
-ms.author: inhenk@microsoft.com
 ---
 # markdown template for caps
 Welcome to CAPS Markdown Editor!

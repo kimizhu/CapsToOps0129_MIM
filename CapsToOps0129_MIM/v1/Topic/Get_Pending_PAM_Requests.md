@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get Pending PAM Requests
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: 005dc8fd-d73e-4557-b485-5566f16537eb
-ms.author: v-jibran@microsoft.com
 ---
 # Get Pending PAM Requests
 Used by a privileged account to return a list of pending requests that need approval.

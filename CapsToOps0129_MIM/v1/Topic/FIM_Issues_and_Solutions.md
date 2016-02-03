@@ -1,15 +1,14 @@
 ---
-description: na
-keywords: na
 title: FIM Issues and Solutions
-search: na
-ms.date: na
+ms.custom: na
 ms.prod: windows-server-2012
+ms.reviewer: na
 ms.service: active-directory
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 107775f8-2bf6-490a-86bf-653171b26c66
-ms.author: kgremban@microsoft.com
+author: Kgremban
 ---
 # FIM Issues and Solutions
 ## Forefront Identity Manager Issues and Solutions

@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get Profile State Operations
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: f62c827b-5229-4b13-ad37-4f62ad231d30
-ms.author: v-jibran@microsoft.com
 ---
 # Get Profile State Operations
 Gets a list of possible operations that can be performed by the current user on the specified profile. A request can then be initiated for any of the specified operations.

@@ -1,19 +1,17 @@
 ---
-description: na
-keywords: na
 title: Working with Self-Service Login Assistance
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 94a74f1c-2192-4748-9a25-62a526295338
-ms.author: rkarlin@microsoft.com
+author: Kgremban
 ---
 # Working with Self-Service Login Assistance
 Microsoft Identity Manager 2016 provides additional functionality to the Self Service Password Reset feature. This functionality has been enhanced with several important features:

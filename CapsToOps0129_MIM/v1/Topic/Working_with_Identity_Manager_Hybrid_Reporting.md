@@ -1,19 +1,17 @@
 ---
-description: na
-keywords: na
 title: Working with Identity Manager Hybrid Reporting
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 68df2817-2040-407d-b6d2-f46b9a9a3dbb
-ms.author: rkarlin@microsoft.com
+author: Kgremban
 ---
 # Working with Identity Manager Hybrid Reporting
 

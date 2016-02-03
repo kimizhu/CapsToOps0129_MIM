@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get PAM Roles
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: d3c4f528-c3c8-41c1-905e-7eb84f074ce4
-ms.author: v-jibran@microsoft.com
 ---
 # Get PAM Roles
 Used by a privileged account to list the PAM roles for which the account is a candidate.

@@ -1,19 +1,17 @@
 ---
-description: na
-keywords: na
 title: Identity Manager Hybrid Reporting in Azure
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 7320f014-8b60-4866-92de-cfbd3e6edc48
-ms.author: rkarlin@microsoft.com
+author: Kgremban
 ---
 # Identity Manager Hybrid Reporting in Azure
 If you have an Azure subscription, you can now easily create a report of events that are both on-premises and in the cloud. The reports can then be viewed in the Azure portal. Better yet, the reports are combined with the Azure Active Directory activities. With Identity Manager Hybrid Reporting, Azure AD management portal can display identity management activity reports for both cloud and on-premises activities. This reporting capability provides the following:

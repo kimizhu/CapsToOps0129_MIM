@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get Smartcard Authentication Response
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: e05ec898-06cd-4c17-a4f4-8f3545af0f14
-ms.author: v-jibran@microsoft.com
 ---
 # Get Smartcard Authentication Response
 Gets the response to a Base CSP authentication challenge.

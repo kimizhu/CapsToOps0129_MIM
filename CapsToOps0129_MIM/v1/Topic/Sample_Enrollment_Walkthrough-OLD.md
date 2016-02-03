@@ -1,12 +1,10 @@
 ---
-description: na
-keywords: na
 title: Sample Enrollment Walkthrough-OLD
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.assetid: 6744117c-4843-4c85-aff3-603b27fc5d50
-ms.author: v-jibran@microsoft.com
 ---
 # Sample Enrollment Walkthrough-OLD
 Insert introduction here.

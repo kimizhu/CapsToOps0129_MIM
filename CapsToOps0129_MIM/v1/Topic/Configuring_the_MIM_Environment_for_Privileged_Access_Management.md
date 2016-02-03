@@ -1,19 +1,17 @@
 ---
-description: na
-keywords: na
 title: Configuring the MIM Environment for Privileged Access Management
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c4ca5b58-ad0c-48af-a9eb-b71b22d0c67c
-ms.author: kgremban@microsoft.com
+author: Kgremban
 ---
 # Configuring the MIM Environment for Privileged Access Management
 There are seven steps to complete when setting up the environment for cross-forest access, installing and configuring Active Directory and Microsoft Identity Manager, and demonstrating a just-in-time access request.

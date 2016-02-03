@@ -1,19 +1,17 @@
 ---
-description: na
-keywords: na
 title: Getting Started with Privileged Access Management
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ebf516a1-0a1d-4f28-959b-8de4a8f5d4e1
-ms.author: kgremban@microsoft.com
+author: Kgremban
 ---
 # Getting Started with Privileged Access Management
 

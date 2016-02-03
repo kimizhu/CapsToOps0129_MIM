@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: PAM REST API Service Details
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 54c78bbd-8da1-42ff-9edc-47d913011941
-ms.author: v-jibran@microsoft.com
 ---
 # PAM REST API Service Details
 The following sections discuss details of the Microsoft Identity Manager (MIM) Privileged Access Management (PAM) REST API.

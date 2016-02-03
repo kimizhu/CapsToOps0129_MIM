@@ -1,19 +1,16 @@
 ---
-description: na
-keywords: na
 title: Step 3 – Prepare a PAM server
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 68ec2145-6faa-485e-b79f-2b0c4ce9eff7
-ms.author: inhenk@microsoft.com
 robots: noindex,nofollow
 ---
 # Step 3 – Prepare a PAM server

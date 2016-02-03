@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get Profile Templates
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: b7d8ed76-168b-4cb8-b87c-cdb0976c179a
-ms.author: v-jibran@microsoft.com
 ---
 # Get Profile Templates
 Gets a list of profile templates that the specified user can enroll for. This method  returns a limited view of the profile template. The profile template data returned should be sufficient to enable the requesting user to decide which profile template, if any, they need to enroll for. If no workflow and permission are specified, all profile templates visible to the user will be returned.

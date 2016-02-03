@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get User Certificates
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: 1b51b742-4a36-44e4-ae58-a93737d0dc27
-ms.author: v-jibran@microsoft.com
 ---
 # Get User Certificates
 Gets the list of certificates associated with the specified user (retired certificates are filtered).

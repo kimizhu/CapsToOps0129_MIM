@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: Deployment Considerations for Privileged Access Management
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: dd883415-d39f-4903-8b01-1c8b52e8d447
-ms.author: inhenk@microsoft.com
 ---
 # Deployment Considerations for Privileged Access Management
 Welcome to CAPS Markdown Editor!

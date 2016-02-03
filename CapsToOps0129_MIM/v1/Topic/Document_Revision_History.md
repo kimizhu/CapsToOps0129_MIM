@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: Document Revision History
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4c5e41d2-3cf8-4521-8d46-2fd1748e7b3e
-ms.author: inhenk@microsoft.com
 ---
 # Document Revision History
 

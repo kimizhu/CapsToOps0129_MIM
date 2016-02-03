@@ -1,17 +1,15 @@
 ---
-description: na
-keywords: na
 title: Hardware and Software Requirements
-search: na
-ms.date: na
+ms.custom: na
 ms.prod: windows-server-threshold
+ms.reviewer: na
 ms.service: active-directory
+ms.suite: na
 ms.technology: 
   - active-directory-fabric
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: e38c1e82-8550-4148-9a0c-3271e2f647a1
-ms.author: inhenk@microsoft.com
 ---
 # Hardware and Software Requirements
 No hardware requirements beyond those of the underlying software platforms, sufficient memory or disk space and network connectivity is required. This test lab is not intended to demonstrate performance, scalability or high availability, and does not represent a recommended deployment topology for large enterprises or production environments.

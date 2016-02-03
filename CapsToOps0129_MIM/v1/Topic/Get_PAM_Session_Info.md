@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get PAM Session Info
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: bc30e455-9a9c-413a-b8ca-9669286299cf
-ms.author: v-jibran@microsoft.com
 ---
 # Get PAM Session Info
 Used by a privileged account to get the username of the account that is logged in to the session.

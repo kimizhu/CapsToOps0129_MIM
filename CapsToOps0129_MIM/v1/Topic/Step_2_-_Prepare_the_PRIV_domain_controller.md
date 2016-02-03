@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Step 2 - Prepare the PRIV domain controller
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 0e9993a0-b8ae-40e2-8228-040256adb7e2
-ms.author: kgremban@microsoft.com
+author: Kgremban
 ---
 # Step 2 - Prepare the PRIV domain controller
 ## Create a new privileged access management forest

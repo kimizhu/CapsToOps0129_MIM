@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get Certificate Responses
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: b0559e7b-eaff-499b-8bcf-c6cdf5a89545
-ms.author: v-jibran@microsoft.com
 ---
 # Get Certificate Responses
 Submits a set of certificate requests to the Certificate Authority (CA) for processing. 

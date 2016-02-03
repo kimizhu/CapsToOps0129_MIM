@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Update Smartcard Status
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: 598dace3-c6f2-447a-9301-c0b63ee38276
-ms.author: v-jibran@microsoft.com
 ---
 # Update Smartcard Status
 Updates the status of a smartcard.

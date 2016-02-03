@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get Smartcard Data
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: 81f4b7cd-e4d9-4b11-b125-78cc9f183cf0
-ms.author: v-jibran@microsoft.com
 ---
 # Get Smartcard Data
 Gets a list of a user’s smartcard profiles with a list of possible operations that can be performed by the current user. A request can then be initiated for any of the specified operations.

@@ -1,19 +1,17 @@
 ---
-description: na
-keywords: na
 title: Environment Overview
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 479db14c-1bfb-4d7c-a344-cd718a01f328
-ms.author: kgremban@microsoft.com
+author: Kgremban
 ---
 # Environment Overview
 This test lab comprises software which can be installed on four physical or virtual machines, as illustrated in Figure 1. The remainder of these instructions assume the installation is performed on virtual machines which share a common private network (e.g., a virtual LAN with IP addresses numbered 10.0.x.x or 192.168.x.x).

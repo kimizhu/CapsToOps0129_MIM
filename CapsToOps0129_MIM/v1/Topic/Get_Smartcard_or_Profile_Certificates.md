@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get Smartcard or Profile Certificates
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: 206bde70-4af8-46fa-9c0b-f574745b0977
-ms.author: v-jibran@microsoft.com
 ---
 # Get Smartcard or Profile Certificates
 Gets a list of certificates associated with the particular smartcard or software profile.

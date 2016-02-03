@@ -1,12 +1,11 @@
 ---
-description: na
-keywords: na
 title: Deploying Privileged Identity Management
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.assetid: 0320d196-8e28-41af-9f97-daa980a2b117
-ms.author: rkarlin@microsoft.com
+author: Rkarlin
 ---
 # Deploying Privileged Identity Management
 Insert introduction here.

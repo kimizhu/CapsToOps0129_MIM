@@ -1,12 +1,11 @@
 ---
-description: na
-keywords: na
 title: Microsoft Identity Manager 2015 Public Preview
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.assetid: a50b5337-d942-4195-9765-4dbee6d9da53
-ms.author: rkarlin@microsoft.com
+author: Rkarlin
 ---
 # Microsoft Identity Manager 2015 Public Preview
 Microsoft Identity Manager (MIM) 2015 is the upcoming version of Microsoft’s identity and access management (IAM) product suite, and replaces Forefront Identity Management (FIM) 2010R2.

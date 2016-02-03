@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: OLDTier model for partitioning administrative privileges
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 5ec11328-34be-45c0-98d9-8ce786c1e003
-ms.author: inhenk@microsoft.com
 ---
 # OLDTier model for partitioning administrative privileges
 # Tier Model for Partitioning Administrative Privileges

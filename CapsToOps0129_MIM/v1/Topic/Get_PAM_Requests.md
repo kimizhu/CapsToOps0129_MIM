@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get PAM Requests
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: 620eebd6-e4c3-473b-b824-ee6cfe83e509
-ms.author: v-jibran@microsoft.com
 ---
 # Get PAM Requests
 Used by a privileged account to return a history of previously posted PAM requests.

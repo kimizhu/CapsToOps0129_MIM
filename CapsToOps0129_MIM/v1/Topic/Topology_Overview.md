@@ -1,13 +1,11 @@
 ---
-description: na
-keywords: na
 title: Topology Overview
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: cca8e678-41a4-4f7f-9d56-fd8c47e76570
-ms.author: inhenk@microsoft.com
 ---
 # Topology Overview
 Insert introduction here.

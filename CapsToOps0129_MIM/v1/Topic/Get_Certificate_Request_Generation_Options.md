@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Get Certificate Request Generation Options
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: 36bd1fc9-3443-4028-90e7-a24fef0ec0ae
-ms.author: v-jibran@microsoft.com
 ---
 # Get Certificate Request Generation Options
 Gets parameters for client-side certificate request generation. 

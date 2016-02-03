@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: Step 1 - Prepare the CORP domain
-search: na
-ms.date: na
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4b524ae7-6610-40a0-8127-de5a08988a8a
-ms.author: kgremban@microsoft.com
+author: Kgremban
 ---
 # Step 1 - Prepare the CORP domain
 In this step, you will create a domain controller and a member workstation in a new domain in a new forest. This forest will simulate an existing forest that has resources to be managed. The resource to be protected for this scenario will be a file share.

@@ -1,19 +1,16 @@
 ---
-description: na
-keywords: na
 title: Step 4 – Install MIM components on PAM server and workstation
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: 2015-09-10
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: ef605496-7ed7-40f4-9475-5e4db4857b4f
-ms.author: inhenk@microsoft.com
 robots: noindex,nofollow
 ---
 # Step 4 – Install MIM components on PAM server and workstation

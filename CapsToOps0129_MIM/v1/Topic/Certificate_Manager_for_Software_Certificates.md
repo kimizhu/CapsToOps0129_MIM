@@ -1,19 +1,17 @@
 ---
-description: na
-keywords: na
 title: Certificate Manager for Software Certificates
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fed5ada9-d80f-4825-aad7-4172ac5d71d3
-ms.author: rkarlin@microsoft.com
+author: Kgremban
 ---
 # Certificate Manager for Software Certificates
 To enroll and renew software certificates you don’t have to be an administrator and you don’t need a virtual smart card. It’s worth noting that at some point you will be prompted to allow a certificate operation and this is normal.

@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Create Request
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: 80fe0656-6fb2-400c-9ef8-5f62b61b2a1b
-ms.author: v-jibran@microsoft.com
 ---
 # Create Request
 Create a MIM CM request.

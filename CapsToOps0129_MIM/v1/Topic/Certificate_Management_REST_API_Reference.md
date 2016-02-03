@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Certificate Management REST API Reference
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: 46b7f5b4-ee72-4b68-abc5-1dfd71adaa25
-ms.author: v-jibran@microsoft.com
 ---
 # Certificate Management REST API Reference
 The Certificate Management (CM) REST API is consumed by clients to complete both software and smartcard based certificate enrollment. Smartcard management operations are also supported through this API.

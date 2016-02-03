@@ -1,18 +1,15 @@
 ---
-description: na
-keywords: na
 title: Cancel, Abandon, or Complete a Request
-search: na
 ms.custom: 
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: reference
 ms.assetid: e29e0068-7602-455e-8a3a-690da9ca8eb5
-ms.author: v-jibran@microsoft.com
 ---
 # Cancel, Abandon, or Complete a Request
 Mark a MIM CM request as completed, canceled, or abandoned.

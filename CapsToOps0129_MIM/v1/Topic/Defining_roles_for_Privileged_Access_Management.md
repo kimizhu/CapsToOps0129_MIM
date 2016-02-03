@@ -1,17 +1,16 @@
 ---
-description: na
-keywords: na
 title: Defining roles for Privileged Access Management
-search: na
-ms.date: na
+ms.custom: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
 ms.service: active-directory
+ms.suite: na
 ms.technology: 
   - active-directory-domain-services
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 1a368e8e-68e1-4f40-a279-916e605581bc
-ms.author: kgremban@microsoft.com
+author: Kgremban
 ---
 # Defining roles for Privileged Access Management
 ## Oveview

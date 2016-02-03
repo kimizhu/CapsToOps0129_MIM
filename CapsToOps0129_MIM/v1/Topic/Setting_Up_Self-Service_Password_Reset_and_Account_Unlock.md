@@ -1,19 +1,17 @@
 ---
-description: na
-keywords: na
 title: Setting Up Self-Service Password Reset and Account Unlock
-search: na
 ms.custom: 
   - Identity Management
   - MIM
-ms.date: na
 ms.prod: identity-manager-2015
+ms.reviewer: na
+ms.suite: na
 ms.technology: 
   - security
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: c1ae1413-724c-491b-8dd8-18997f2a481a
-ms.author: rkarlin@microsoft.com
+author: Kgremban
 robots: noindex,nofollow
 ---
 # Setting Up Self-Service Password Reset and Account Unlock
