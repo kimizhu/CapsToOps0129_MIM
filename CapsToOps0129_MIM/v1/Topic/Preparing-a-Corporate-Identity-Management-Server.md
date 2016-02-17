@@ -174,7 +174,7 @@ Install **SQL Server 2014 Standard Edition**.
         $s.CompatibilityLevel
         ```
 
-    2.  Verify that the result of the *CompatibilityLevel* variable is “14”.  ([See http://technet.microsoft.com/library/jj863242(v=ws.10).aspx](http://technet.microsoft.com/library/jj863242%28v=ws.10%29.aspx) for more information). If the result is “15”, then the site collection was not created for the 2010 experience version; delete the site collection and recreate it.
+    2.  Verify that the result of the *CompatibilityLevel* variable is “14”.  ([See Installing FIM 2010 R2 on SharePoint Foundation 2013](http://technet.microsoft.com/library/jj863242.aspx) for more information). If the result is “15”, then the site collection was not created for the 2010 experience version; delete the site collection and recreate it.
 
 9. Disable **SharePoint Server-Side Viewstate**, and the SharePoint task "Health Analysis Job (Hourly, Microsoft SharePoint Foundation Timer, All Servers)", by running the following PowerShell commands in the **SharePoint 2013 Management Shell**:
 
